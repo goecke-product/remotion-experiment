@@ -104,8 +104,8 @@ One session produced: a bookstore opening clip, animated cover reveal, page scro
 
 ## Credits
 
-- **Kristian Fagerlie** - His video on Remotion + Claude Code put me onto this combination. https://www.linkedin.com/in/kristian-fagerlie/
-- **Zevi Arnovitz** - His approach to shipping products without writing code inspired the project setup.
+- **Kristian Fagerlie** - His video on Remotion + Claude Code put me onto this combination. [https://www.linkedin.com/in/kristian-fagerlie/](https://www.youtube.com/watch?v=vDBUf533e_M&t=2s)
+- **Zevi Arnovitz** - His approach to shipping products without writing code inspired the project setup. https://www.youtube.com/watch?v=1em64iUFt3U
 - **Remotion** - Open-source framework by Jonny Burger. https://www.remotion.dev/
 
 ## About the book
